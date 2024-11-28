@@ -2,7 +2,7 @@
 int main() {
 	int num1;
 	int num2;
-	printf("n1;");
+	printf("n1;",end="");
 	scanf("%d",&num1)
 	printf("n2;");
 	scanf("%d",&num2)
